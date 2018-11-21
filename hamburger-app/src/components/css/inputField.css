@@ -1,0 +1,15 @@
+h1, b {
+    margin: 5px;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+    display: block;
+    width: 200px;
+    height: 20px;
+}
+
+input:focus{
+    outline: none;
+}
